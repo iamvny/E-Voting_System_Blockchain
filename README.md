@@ -43,3 +43,17 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 The project will open in the browser and metamask will ask you to select an account. Select the account we had imported earlier.
 
+
+![Screenshot 2025-01-30 141753](https://github.com/user-attachments/assets/7f1b1afd-bd00-44fe-9cfe-cdd6c09d09ea)
+
+![Screenshot 2025-01-30 151442](https://github.com/user-attachments/assets/64a72a2f-b4a2-48f0-abef-607fd7f5f8ec)
+
+![Screenshot 2025-01-30 151748](https://github.com/user-attachments/assets/c704095b-201a-4f1f-911f-a2a74aa8ea32)
+
+![Screenshot 2025-01-30 151801](https://github.com/user-attachments/assets/c0e7c9eb-b91e-4a6a-9852-7278dde3b26f)
+
+![Screenshot 2025-01-30 145004](https://github.com/user-attachments/assets/ca2a1ab9-073a-4dcd-96c1-95842e4a5400)
+
+
+
+
