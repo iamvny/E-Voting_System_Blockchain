@@ -1,7 +1,7 @@
 ## ABOUT
 A blockchain-based voting system that preserves voter privacy and increases accessibility, while keeping the voting system transparent, secure, and cost-effective. The system implements a voting framework that utilizes ethereum’s blockchain and smart contracts to achieve voter administration and auditable voting records. The implementation was deployed on ethereum’s test network to demonstrate usability, scalability, and efficiency.
 
-Check out the detailed implementation at https://medium.com/coinmonks/e-voting-system-based-on-blockchain-75570ef92c4
+Check out the detailed implementation at https://medium.com/@meshram.vinay2003/e-voting-system-based-on-blockchain-1a3facbe3e51
 
 Pre requisites:
 1. Node JS
@@ -29,7 +29,7 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 #### Cloning the project
 
-```git clone https://github.com/shifaj22/E-Voting_System_Blockchain```
+```git clone https://github.com/iamvny/E-Voting_System_Blockchain```
 
 ```cd E-Voting_System_Blockchain```
 
